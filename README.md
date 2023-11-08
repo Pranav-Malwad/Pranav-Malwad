@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,Css And Javascript**
 
-- 📫 How to reach me **malwadpranav@gmai.com**
+- 📫 How to reach me **malwadpranav@gmail.com**
 
 
 <h3 align="left">Support:</h3>
