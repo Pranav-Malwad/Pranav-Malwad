@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm Pranav Malwad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-malwad&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-malwad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav-malwad" alt="pranav-malwad" /></a> </p>
-
-- 🔭 I’m currently working on **Analog Clock Using Js**
-
-- 🌱 I’m currently learning **Advanced Javascript and React**
-
-- 👨‍💻 All of my projects are available at [Https://pranavmalwad.netlify.app](Https://pranavmalwad.netlify.app)
-
-- 💬 Ask me about **HTML,Css And Javascript**
-
-- 📫 How to reach me **malwadpranav@gmail.com**
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Improving my UI/UX design skills and Developing some new projects<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>Advance JavaScript and MySQL Databases<br><br>💬 **Ask me About:**  <br>HTML, CSS, JavaScript, Tailwind CSS, Figma, MySQL DataBases and any general Web development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/malwadpranav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranav-malwad" /></a></p><br><br>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Pranav_Malwad?t=Bk89OxH2PP6XQR-0PCopPw&s=09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pranavmalwad?igsh=NGVhN2U2NjQ0Yg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-malwad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+# 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-191970?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-%232C8EBB.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-malwad&show_icons=true&locale=en&layout=compact" alt="pranav-malwad" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
