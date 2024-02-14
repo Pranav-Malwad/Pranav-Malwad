@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my UI/UX design skills and Developing some new projects<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>Advance JavaScript and MySQL Databases<br><br>💬 **Ask me About:**  <br>HTML, CSS, JavaScript, Tailwind CSS, Figma, MySQL DataBases and any general Web development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Improving my UI/UX design skills and Developing some new projects<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>Advance JavaScript and React JS<br><br>💬 **Ask me About:**  <br>HTML, CSS, JavaScript, Tailwind CSS, Figma, MySQL DataBases and any general Web development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
